@@ -1,4 +1,4 @@
-# README for Assignment 2d: Supervised Learning
+
 
 ## Instructions for Running the Code
 
